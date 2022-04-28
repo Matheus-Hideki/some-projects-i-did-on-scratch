@@ -1,2 +1,2 @@
 # some-projects-i-did-on-scratch
-these was made for my school, they are pong projects, there's a mobile, and PC version
+these was made for my school, they are pong game projects, there's a mobile, and PC version
